@@ -89,7 +89,7 @@
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://localhost:9090/mithuntechnologies/repository/maven-snapshots</url>
-	    </snapshotRepository>
+	    </snapshotRepository>00000.
 	</distributionManagement>
 	
 	
