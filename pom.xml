@@ -82,8 +82,8 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8086/mithuntechnologies/repository/maven-releases/</url>
+	      <name>Mithun Technologies snapshots Nexus Repository</name>
+	      <url>http://localhost:8086/mithuntechnologies/repository/maven-snapshots/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
